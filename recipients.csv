@@ -1,0 +1,3 @@
+email,firstname,company,cc,bcc,attachment
+alex@example.com,Alex,Acme Corp,,,
+sam@example.com,Sam,Globex,,,"/path/to/brochure.pdf"
